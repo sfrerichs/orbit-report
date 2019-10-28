@@ -4,11 +4,11 @@
 }
 
 .warning {
-    background-color: yellow;
+    background-color: hotpink;
 }
 
 table {
-  color: pink;
+  color: goldenrod;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
