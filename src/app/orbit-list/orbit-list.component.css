@@ -5,15 +5,16 @@
 
 .warning {
     background-color: hotpink;
+    color: red;
 }
 
 table {
-  color: goldenrod;
+  color: black;
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #dad8d8;
+  background: yellow;
 }
 
 .header-row {
